@@ -14,18 +14,18 @@ Day 1:
   * Talks: ZTF Introduction (Michael Coughlin), Supervised Learning (Theophile Jegou Du Laz) 
   * Tutorials: Alert Stream Access, Training a BTS-like model
 
-Day 3:
+Day 2:
   * Talks: Supervised Learning continued (William Benoit)                
   * Tutorials: Compact binary coalescences
   * Outing: Bell Museum / Planetarium
 
-Day 2:
-  * Talks: Simulation Based Inference (Deep Chatterjee)
+Day 3:
+  * Talks: Simulation Based Inference (Deep Chatterjee / Ethan Marx)
   * Tutorials: Kilonova light curves
 
 Day 4:
-  * Talks: Anomaly Detection (Xialong Li)
-  * Tutorials: Echoes case study
+  * Talks: Anomaly Detection (Xialong Li / Daniel Warshofsky), 
+  * Tutorials: Echoes case study, transient case study 
   * Outing: Mall of America
 
 Day 5:
