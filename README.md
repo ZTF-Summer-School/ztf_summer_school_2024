@@ -24,7 +24,7 @@ Day 3:
   * Tutorials: Kilonova light curves
 
 Day 4:
-  * Talks: Anomaly Detection (Xialong Li / Daniel Warshofsky), 
+  * Talks: Anomaly Detection (Xialong Li / Daniel Warshofsky)
   * Tutorials: Echoes case study, transient case study 
   * Outing: Mall of America
 
