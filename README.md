@@ -10,25 +10,25 @@ This course will introduce key concepts and techniques used to work with large d
 
 ### Sample Syllabus
 
-Day 1:
+Day 1 (Monday, July 29th):
   * Talks: ZTF Introduction (Michael Coughlin), Supervised Learning (Theophile Jegou Du Laz) 
   * Tutorials: Alert Stream Access, Training a BTS-like model
 
-Day 2:
+Day 2 (Tuesday, July 30th):
   * Talks: Supervised Learning continued (William Benoit)                
   * Tutorials: Compact binary coalescences
   * Outing: Bell Museum / Planetarium
 
-Day 3:
+Day 3 (Wednesday, July 31st):
   * Talks: Simulation Based Inference (Deep Chatterjee / Ethan Marx)
   * Tutorials: Kilonova light curves
 
-Day 4:
+Day 4 (Thursday, August 1st):
   * Talks: Anomaly Detection (Xialong Li / Daniel Warshofsky)
   * Tutorials: Echoes case study, transient case study 
   * Outing: Mall of America
 
-Day 5:
+Day 5 (Friday, August 2nd):
   * Hackathon with BTS data set 
 
 ### How to use these materials
