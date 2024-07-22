@@ -11,7 +11,7 @@ This course will introduce key concepts and techniques used to work with large d
 ### Sample Syllabus
 
 Day 1 (Monday, July 29th):
-  * Talks: ZTF Introduction (Michael Coughlin), Supervised Learning (Theophile Jegou Du Laz) 
+  * Talks: ZTF Introduction (Michael Coughlin / Theophile Jegou Du Laz), Supervised Learning (Jie Ding) 
   * Tutorials: Alert Stream Access, Training a BTS-like model
 
 Day 2 (Tuesday, July 30th):
