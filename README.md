@@ -20,8 +20,8 @@ Day 2 (Tuesday, July 30th):
   * Outing: Bell Museum / Planetarium
 
 Day 3 (Wednesday, July 31st):
-  * Talks: Simulation Based Inference (Deep Chatterjee / Ethan Marx)
-  * Tutorials: Kilonova light curves
+  * Talks: Simulation Based Inference (Deep Chatterjee / Ethan Marx), Mixed Integer Linear Programming (Leo Singer)
+  * Tutorials: Kilonova light curves, Telescope Scheduling with MILP
 
 Day 4 (Thursday, August 1st):
   * Talks: Anomaly Detection (Xialong Li / Daniel Warshofsky)
