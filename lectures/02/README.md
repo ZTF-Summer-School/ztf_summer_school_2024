@@ -10,5 +10,7 @@ wherever is convenient (just keep track of where you put it).
 
 2. Follow [this link](https://colab.research.google.com/drive/1ULQ-Q6MVYWEvxq1AyKtw3RZs7hb0UTLd?usp=sharing) to the notebook.
 At the top, there are instructions for making a copy of the notebook and connecting the dataset to the Colab runtime.
+(If you happen to be looking at these instructions ahead of time, please don't follow them until Tuesday morning,
+as I'll likely be making changes until the last minute)
 
 That's it! Everything else will happen in the notebook.
