@@ -11,20 +11,20 @@ This course will introduce key concepts and techniques used to work with large d
 ### Sample Syllabus
 
 Day 1 (Monday, July 29th):
-  * Talks: ZTF Introduction (Michael Coughlin / Theophile Jegou Du Laz), Supervised Learning (Jie Ding) 
+  * Talks: ZTF Lecture and Notebook (Michael Coughlin / Theophile Jegou Du Laz, 9:30 - 12:30 pm), Supervised Learning Lecture (Jie Ding, 2-3 pm), BTS Notebook (Theophile Jegou Du Laz, 3-4:30 pm)
   * Tutorials: Alert Stream Access, Training a BTS-like model
 
 Day 2 (Tuesday, July 30th):
-  * Talks: Supervised Learning continued (William Benoit)                
+  * Talks: Supervised Learning Lecture and Notebook (William Benoit, 9 am - 12:30 pm)                
   * Tutorials: Compact binary coalescences
   * Outing: Bell Museum / Planetarium
 
 Day 3 (Wednesday, July 31st):
-  * Talks: Simulation Based Inference (Deep Chatterjee / Ethan Marx), Mixed Integer Linear Programming (Leo Singer)
+  * Talks: Mixed Integer Linear Programming Lecture and Notebook (Leo Singer, 9 am - 12:30 pm), Simulation Based Inference Lecture and Notebook (Ethan Marx, 2 - 5 pm), 
   * Tutorials: Kilonova light curves, Telescope Scheduling with MILP
 
 Day 4 (Thursday, August 1st):
-  * Talks: Anomaly Detection (Xialong Li / Daniel Warshofsky)
+  * Talks: Anomaly Detection Lecture and Notebook (Xialong Li, 9 am - 10:30 am, Daniel Warshofsky, 11 am - 12:30 pm)
   * Tutorials: Echoes case study, transient case study 
   * Outing: Mall of America
 
