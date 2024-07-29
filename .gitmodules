@@ -1,0 +1,3 @@
+[submodule "lectures/01/ztfsummerschool_alert_data"]
+	path = lectures/01/ztfsummerschool_alert_data
+	url = https://github.com/Theodlz/ztfsummerschool_alert_data
