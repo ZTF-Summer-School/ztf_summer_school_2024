@@ -18,6 +18,8 @@ pip install -r requirements_ztf_alert_filtering.txt
 
 If you need help with this, please refer to the help/ directory, or simply ask one of the instructors.
 
+Also, here is the ZTF alert schema if you need to figure out the meaning of a field from the alerts: https://zwickytransientfacility.github.io/ztf-avro-alert/schema.html
+
 2. **Machine Learning Model Training:** *Will be added before the afternoon session.*
 
 Have fun! 🚀
