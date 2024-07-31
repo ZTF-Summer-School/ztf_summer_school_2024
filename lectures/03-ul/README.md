@@ -20,5 +20,5 @@ as I'll likely be making changes until the last minute)
 That's it! Everything else will happen in the notebook.
 
 ### Containerized notebook
-There is also a [containerized version](https://github.com/ethanmarx/ztf-lfi-demo) of the notebook. This notebook includes code for downloading the data as well. It utilizes `apptainer` to containerize the environment. Instructions for running are in the [README](https://github.com/ethanmarx/ztf-lfi-demo/README.md)
+There is also a [containerized version](https://github.com/ethanmarx/ztf-lfi-demo) of the notebook. This notebook includes code for downloading the data as well. It utilizes `apptainer` to containerize the environment. Instructions for running are in the [README](https://github.com/EthanMarx/ztf-lfi-demo/blob/main/README.md))
 
