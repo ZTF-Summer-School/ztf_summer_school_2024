@@ -1,5 +1,9 @@
-## Welcome to Day 3!
+# Welcome to Day 3!
 
+
+## Likelihood Free Inference Notebook
+
+### Google Colab
 Today, one of the lectures (Ethan's on likelihood free inference) will utilize Google Colab to take advantage of the GPUs that they have available. 
 There are two steps you'll need to do to get the notebook and the datasets. These are the same as the steps from Will's Day 2 tutorial on supervised learning.
 
@@ -14,3 +18,7 @@ At the top, there are instructions for making a copy of the notebook and connect
 as I'll likely be making changes until the last minute)
 
 That's it! Everything else will happen in the notebook.
+
+### Containerized notebook
+There is also a [containerized version](https://github.com/ethanmarx/ztf-lfi-demo) of the notebook. This notebook includes code for downloading the data as well. It utilizes `apptainer` to containerize the environment. Instructions for running are in the [README](https://github.com/ethanmarx/ztf-lfi-demo/README.md)
+
