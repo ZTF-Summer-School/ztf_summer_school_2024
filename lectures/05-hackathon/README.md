@@ -15,3 +15,7 @@ At the top, there are instructions for making a copy of the notebook and connect
 
 1. Make sure you've downloaded the model you trained in the ML notebook if you did, and then simply follow [this link](https://colab.research.google.com/drive/1ZEwnllwPkhgt_6hXQr27LJ_Mxw_T5Elf?usp=sharing).
 2. On slack, send me the best transients you've found along with your notebook so I can check you didn't cheat :). Next week we'll publish a leaderboard showing who found the coolest transients.
+
+### Additional resources:
+- ACAI report from Weights and Biases: https://wandb.ai/dimaduev/acai/reports/Classification-of-astrophysical-events-with-ACAI--VmlldzoxMTkwNjYx
+- If you want to get a better understanding of how your CNN model works, and the size of the outputs at each layer: https://kvirajdatt.medium.com/calculating-output-dimensions-in-a-cnn-for-convolution-and-pooling-layers-with-keras-682960c73870
