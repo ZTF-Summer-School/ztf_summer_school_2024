@@ -13,4 +13,5 @@ At the top, there are instructions for making a copy of the notebook and connect
 
 ### Mini Alert Broker using ZTF data and your own ML model
 
-*This notebook will be uploaded soon*
+1. Make sure you've downloaded the model you trained in the ML notebook if you did, and then simply follow [this link](https://colab.research.google.com/drive/1ZEwnllwPkhgt_6hXQr27LJ_Mxw_T5Elf?usp=sharing).
+2. On slack, send me the best transients you've found along with your notebook so I can check you didn't cheat :). Next week we'll publish a leaderboard showing who found the coolest transients.
