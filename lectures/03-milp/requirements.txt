@@ -1,4 +1,0 @@
-ligo.skymap
-scipy<1.14.0
-numpy<2
-highspy
