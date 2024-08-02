@@ -1,6 +1,6 @@
-## Welcome to Day 3!
+## Welcome to Day 5, the best and last day of the summer school :)
 
-Last day of the summer school already! Today you'll work on 2 notebook: a supervised learning one and then you'll work on building your own mini alert broker for ZTF.
+Last day of the summer school and we all miss the Mall of America already. Today there's no rides, but you'll work on 2 notebooks: a supervised learning one and then you'll work on building your own mini alert broker for ZTF.
 
 ### Supervised learning notebook
 1. Follow [this link](https://drive.google.com/file/d/1PsbKYzMxmUFzGN4UFSQxfnYP2fofQHnj/view?usp=drive_link) to the dataset zip file.
